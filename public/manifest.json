@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Inkwell2.0",
+    "description": "Your perfect notes app!!",
+    "version": "1.0",
+
+    "action": {
+        "default_popup": "index.html"
+    }
+}
